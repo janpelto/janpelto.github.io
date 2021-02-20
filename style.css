@@ -1,0 +1,51 @@
+body, html {
+    height: 100%;
+    
+}
+
+.navbar {
+    overflow: auto;
+}
+  
+#wrapper {
+    background-image: url("kuvat/backgroundimage.png");
+  
+    overflow: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.column {
+    background-color: white;
+}
+
+.card-body {
+    background-color: white
+}
+
+#carousel {
+    background-color: teal;
+}
+
+#whycoding {
+    background-color: teal;
+    color: white;
+}
+
+.carousel-item {
+    font-size: 18px;
+}
+
+@media only screen and (max-width: 600px) {
+    .carouselimage {
+        width: 100px;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .carouselimage {
+        width: 200px;
+    }
+}
+

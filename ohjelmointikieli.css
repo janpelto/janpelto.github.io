@@ -1,0 +1,106 @@
+
+#section1 {
+    height: 100vh;
+    background-image: url("kuvat/csharpbackround.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+td {
+    padding-right: 20px;
+}
+
+#section3 {
+    text-align: center;
+    background-color: #E6E5E2;
+}
+
+#info {
+    width: 60%;
+}
+#section4 {
+    text-align: center;
+    background-color: #E6E5E2;
+}
+.youtube {
+    width: 60%;
+}
+
+#section5 {
+    text-align: center;
+    background-color: #E6E5E2;
+}
+
+#pythonsection1 {
+    height: 100vh;
+    background-image: url("kuvat/pythonbackround.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#lapsetsection1 {
+    height: 100vh;
+    background-image: url("kuvat/lapsetjanuoretbackround.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#htmlsection1 {
+    height: 100vh;
+    background-image: url("kuvat/htmlbackround.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#javasection1 {
+    height: 100vh;
+    background-image: url("kuvat/javabackround.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#javascriptsection1 {
+    height: 100vh;
+    background-image: url("kuvat/javascriptbackround.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#arrow {
+    width: 24px;
+    height: 60px;
+    position: relative;
+    animation-name: example;
+    animation-duration: 2s;  
+    animation-delay: 1s;
+    animation-iteration-count: 2;
+    animation-fill-mode: backwards;
+  }
+  
+  @keyframes example {
+    0%   {background-image: url("kuvat/Arrow.png"); left:50%; top:68%;}
+    100%  {background-image: url("kuvat/Arrow.png"); left:50%; top:78%;}
+  }
+
+  #scratchsection1 {
+    height: 100vh;
+    background-image: url("kuvat/scratchbackround.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
