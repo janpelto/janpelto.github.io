@@ -1,7 +1,7 @@
 
 #section1 {
     height: 100vh;
-    background-image: url("kuvat/csharpbackround.png");
+    background-image: url("csharpbackround.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -43,7 +43,7 @@ td {
 
 #pythonsection1 {
     height: 100vh;
-    background-image: url("kuvat/pythonbackround.png");
+    background-image: url("pythonbackround.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -51,7 +51,7 @@ td {
 
 #lapsetsection1 {
     height: 100vh;
-    background-image: url("kuvat/lapsetjanuoretbackround.png");
+    background-image: url("lapsetjanuoretbackround.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -59,7 +59,7 @@ td {
 
 #htmlsection1 {
     height: 100vh;
-    background-image: url("kuvat/htmlbackround.png");
+    background-image: url("htmlbackround.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -67,7 +67,7 @@ td {
 
 #javasection1 {
     height: 100vh;
-    background-image: url("kuvat/javabackround.png");
+    background-image: url("javabackround.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -75,7 +75,7 @@ td {
 
 #javascriptsection1 {
     height: 100vh;
-    background-image: url("kuvat/javascriptbackround.png");
+    background-image: url("javascriptbackround.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -93,13 +93,13 @@ td {
   }
   
   @keyframes example {
-    0%   {background-image: url("kuvat/Arrow.png"); left:50%; top:68%;}
-    100%  {background-image: url("kuvat/Arrow.png"); left:50%; top:78%;}
+    0%   {background-image: url("Arrow.png"); left:50%; top:68%;}
+    100%  {background-image: url("Arrow.png"); left:50%; top:78%;}
   }
 
   #scratchsection1 {
     height: 100vh;
-    background-image: url("kuvat/scratchbackround.png");
+    background-image: url("scratchbackround.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;

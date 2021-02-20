@@ -8,7 +8,7 @@ body, html {
 }
   
 #wrapper {
-    background-image: url("kuvat/backgroundimage.png");
+    background-image: url("backgroundimage.png");
   
     overflow: auto;
     background-position: center;
