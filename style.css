@@ -39,11 +39,16 @@ body, html {
 
 @media only screen and (max-width: 600px) {
     .carouselimage {
+        width: 80px;
+    }
+}
+@media only screen and (min-width: 600px) {
+    .carouselimage {
         width: 100px;
     }
 }
 
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 650px) {
     .carouselimage {
         width: 200px;
     }
