@@ -1,6 +1,7 @@
 
 #section1 {
-    height: 100vh;
+    height: 99vh;
+    width: 100%;
     background-image: url("csharpbackround.png");
     background-position: center center;
     background-repeat: no-repeat;
@@ -108,5 +109,12 @@ td {
   @media only screen and (max-width: 600px) {
     #youtubeframe {
         width: 85%;
+    }
+    #scratchsection1 {
+        height: 100vh;
+        background-image: url("scratchbackroundmobile.png");
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
     }
 }
