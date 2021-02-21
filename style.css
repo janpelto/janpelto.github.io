@@ -37,6 +37,14 @@ body, html {
     font-size: 18px;
 }
 
+.carousel-caption {
+    width: 50%;
+    height: auto;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+}
+
 @media only screen and (max-width: 600px) {
     .carouselimage {
         width: 75px;
@@ -51,6 +59,11 @@ body, html {
 @media only screen and (min-width: 650px) {
     .carouselimage {
         width: 200px;
+    }
+}
+@media only screen and (max-width: 850px) {
+    .carousel-item {
+        font-size: 16px;
     }
 }
 

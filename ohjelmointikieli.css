@@ -117,4 +117,46 @@ td {
         background-repeat: no-repeat;
         background-size: cover;
     }
+    #javascriptsection1 {
+        height: 100vh;
+        background-image: url("javascriptbackroundmobile.png");
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    #javasection1 {
+        height: 100vh;
+        background-image: url("javabackroundmobile.png");
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    #htmlsection1 {
+        height: 100vh;
+        background-image: url("htmlbackroundmobile.png");
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    #pythonsection1 {
+        height: 100vh;
+        background-image: url("pythonbackroundmobile.png");
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    #section1 {
+        height: 100vh;
+        background-image: url("csharpbackroundmobile.png");
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    #lapsetsection1 {
+        height: 100vh;
+        background-image: url("lapsetjanuoretbackroundmobile.png");
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
 }
